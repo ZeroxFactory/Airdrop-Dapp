@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0xEb66179e73804883Bba748Bcc75897fcEFF4Eb5B"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "1000000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "0xFactory Demo Airdrop"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "ZXF token is the cryptocurrency that powers the 0xFactory platform, you can use ZXF in a wide range of applications and use cases."
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0x53a3bE470d8B8255c9Ed5015C5b953F574b2Ce86"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "ZXF"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "100"
+    }
+    
+  ]
+  
