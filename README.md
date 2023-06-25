@@ -1,6 +1,8 @@
 # Airdrop
 Create Your Token Airdrop and Collect Some Money, Increase your token holders by distributing small amount from your token to 1000's of holders, also you can collect fees.
 
+Video tutorial: https://www.youtube.com/watch?v=m92ARWf1o1g
+
 Follow this steps:
 
 1- create airdrop contract: https://0xfactory.com/airdrop-contract 
